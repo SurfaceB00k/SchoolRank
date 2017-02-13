@@ -1,0 +1,14 @@
+{
+  "name": "dcard-school",
+  "version": "1.0.0",
+  "description": "Get the post perceptage of school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SurfaceB00k",
+  "license": "MIT",
+  "dependencies": {
+    "dcard": "^3.0.3"
+  }
+}
